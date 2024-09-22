@@ -3,15 +3,15 @@ Please send an e-mail to acw499@qmul.ac.uk to receive a link to the CTooth datas
 
 "Subject: Request to download CTooth dataset.
 
-Name: [your first and last name]
+Name: Pooja Patel
 
-Affiliation: [university where you work]
+Affiliation: Sarvajanik College of Engineering and Technology
 
-Department: [your department]
+Department: Computer
 
-Current position: [your job title]
+Current position: M.Tech student
 
-E-mail: [must be the e-mail at the above mentioned institution]
+E-mail: poojapatel.comtech23@scet.ac.in
 
 I have read and agreed to follow the terms and conditions below: The use of the CTooth dataset is defined by the following conditions:
 
@@ -23,6 +23,6 @@ All images in this dataset are only allowed for demonstration in academic public
 
 This dataset will only be used for research purposes. I will not make any part of this dataset available to a third party. I’ll not sell any part of this dataset or make any profit from its use.
 
-[your signature]"  
+PoojaPatel"  
 
 
